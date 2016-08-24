@@ -2,14 +2,14 @@
 An android library for navigator that stick on the top 
 
 
-# Ð§¹ûÍ¼
+# Ð§ï¿½ï¿½Í¼
 
 ![](sc.gif)
 
 
-# ÓÃ·¨
-Ö±½Ó×÷Îª¸ú²¼¾Ö£¬ÄÚ²¿Ò»´Î·ÅÖÃ£¬¶¥²¿ÄÚÈÝÇøÓò£¬µ¼º½£¬ViewPager¡£
-×¢Òâid£¬ÐèÒªÊ¹ÓÃÔ¤¶¨µÄid×ÊÔ´¡£
+# ï¿½Ã·ï¿½
+Ö±ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½Ö£ï¿½ï¿½Ú²ï¿½Ò»ï¿½Î·ï¿½ï¿½Ã£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ò£¬µï¿½ï¿½ï¿½ï¿½ï¿½ViewPagerï¿½ï¿½
+×¢ï¿½ï¿½idï¿½ï¿½ï¿½ï¿½ÒªÊ¹ï¿½ï¿½Ô¤ï¿½ï¿½ï¿½ï¿½idï¿½ï¿½Ô´ï¿½ï¿½
 
 ```xml
 <com.zhy.view.StickyNavLayout xmlns:tools="http://schemas.android.com/tools"
@@ -28,7 +28,7 @@ An android library for navigator that stick on the top
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:text="Èí¼þ½éÉÜ"
+            android:text="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
             android:textSize="30sp"
             android:textStyle="bold" />
     </RelativeLayout>
@@ -51,8 +51,8 @@ An android library for navigator that stick on the top
 
 ```
 
-#¹ØÓÚÎÒ
+#ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-[ÎÒµÄ²©¿ÍµØÖ·][3]
+[ï¿½ÒµÄ²ï¿½ï¿½Íµï¿½Ö·][3]
 
-[3]: http://blog.csdn.net/lmj623565791
+[3]: http://blog.csdn.net/xiaole0313
